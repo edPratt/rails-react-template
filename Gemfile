@@ -8,7 +8,7 @@ end
 gem 'rails', '~> 5.0.1'
 gem 'react_on_rails', '~> 6'
 gem 'mini_racer', platforms: :ruby
-gem 'mysql2', '>= 0.3.18', '< 0.5'
+gem 'pg', '~> 0.20'
 gem 'annotate'
 gem 'puma', '~> 3.0'
 gem 'sass-rails', '~> 5.0'
