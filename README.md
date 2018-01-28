@@ -9,7 +9,8 @@ This is [react_on_rails](https://github.com/shakacode/react_on_rails) + [react-r
 - redux
 
 ## usage
-
+1. Create new db for the project
+2.
 ```sh
 # in root dir
 $ bundle install
